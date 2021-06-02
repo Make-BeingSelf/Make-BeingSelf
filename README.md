@@ -11,9 +11,9 @@
 
 
 
-[Make-BeingSelf's github stats](https://github-readme-stats.vercel.app/api?username=Make-BeingSelf&show_icons=true) 
+[![Make-BeingSelf's github stats](https://github-readme-stats.vercel.app/api?username=Make-BeingSelf&show_icons=true)](https://github.com/Make-BeingSelf)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Make-BeingSelf&layout=compact)](https://github.com/Make-BeingSelf)
 
 
 <!--
